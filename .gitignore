@@ -1,0 +1,72 @@
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio
+.vs/
+*.user
+*.userosscache
+*.suo
+*.userprefs
+*.rsuser
+*.VC.db
+*.VC.VC.opendb
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+
+# Dotnet tools
+.dotnet/
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+
+# Test results
+TestResults/
+*.trx
+
+# Logs
+*.log
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Node / Vite
+node_modules/
+frontend/node_modules/
+
+# Vite/React build output
+frontend/dist/
+dist/
+
+# Environment files
+.env
+.env.*
+
+# Docker
+**/.docker/
+
+# Coverage
+coverage/
+coverage.cobertura.xml
+
+# ReSharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# Local DB / dev artifacts
+*.db
+*.sqlite
